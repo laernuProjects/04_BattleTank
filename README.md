@@ -7,3 +7,6 @@ An open world head to head tank fightwith simple AI, terrain, and advanced contr
 * 98 BT04 Creating & Deleting Landscapes
 
 ---
+Click [here](http://www.russdionne.com/) to see what i am up to!
+Regards,
+Russ Dionne
