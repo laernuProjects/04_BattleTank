@@ -8,5 +8,7 @@ An open world head to head tank fightwith simple AI, terrain, and advanced contr
 
 ---
 Click [here](http://www.russdionne.com/) to see what i am up to!
+
 Regards,
+
 Russ Dionne
