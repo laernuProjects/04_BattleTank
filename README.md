@@ -6,7 +6,7 @@ An open world head to head tank fightwith simple AI, terrain, and advanced contr
 * 097 BT03 Setting Up a GitHub “Repo”
 * 098 BT04 Creating & Deleting Landscapes
 * 099 BT05 Landscape Setup & Scaling
-* 100 BT06 A LandScaping Process
+* 100 BT06 A LandScaping Process (cool ice terrain version 001!)
 ---
 Click [here](http://www.russdionne.com/) to see what i am up to!
 
